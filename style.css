@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+h1 {
+  color: red;
+}
+
+.center{
+  max-width: 500px;
+  margin: auto;
+}
+
+#featured-property{
+  text-align: center;
+}
+
+#details{
+  background-color: red;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#details div{
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+}
